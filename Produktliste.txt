@@ -1,0 +1,77 @@
+Bohschrauber -3
+Schlagbohrschrauber -3
+Stichsäge -3
+Staubsauger -3
+Hammer -2
+Gummihammer -2
+Vorschlaghammer -2
+Meißel -2
+Spalthammer -2
+Axt -2
+Stichaxt -2
+Spaltaxt -2
+Beil -2
+Forstbeil -2
+Jägerbeil -2
+Schaufel -2
+Kehrschaufel -2
+Sandschaufel -2
+Klappschaufel -2
+Blumenkelle -2
+Hacke -2
+Kreuzhacke -2
+Kleinhacke -2
+Gartenhacke -2
+Doppelhacke -2
+Pickel -2
+Machete -2
+Nagelset 2mm -1
+Nagelset 3mm -1
+Nagelset 5mm -1
+Nagelset 10mm -1
+Schraubenset 2mm -1
+Schraubenset 3mm -1
+Schraubenset 5mm -1
+Schraubenset 10mm -1
+Stufenleiter 3m -2
+Stufenleiter 5m -2
+Stufenleiter 10m -2
+Nagelsortiment -2
+Werkzeugkoffer klein -3
+Werkzeugkoffer groß -3
+Cuttermesser -2
+Holzsäge -2
+Metallsäge -2
+Tischkreissäge -2
+Säbelsäge -2
+Laubsäge -2
+Klappsäge -2
+Bandsäge -2
+Handsäge -2
+Kettensäge -3
+Kleinmetallsäge -3
+Dekupiersäge -3
+Japansäge -2
+Feinsäge -2
+Hobelmaschine -3
+Blockhopbel -2
+Kombihobel -2
+Simshobel -2
+Handhobel -2
+Elektrohobel -2
+Schleifpapier 40 -1
+Schleifpapier 60 -1
+Schleifpapier 80 -1
+Schleifpapier 100 -1
+Schleifpapier 120 -1
+Schleifpapier 180 -1
+Schleifpapier 240 -1
+Schleifpapier 320 -1
+Schleifpapier 400 -1
+Schleifpapier 600 -1
+Schleifpapier 800 -1
+Schleifpapier 1000 -1
+Schleifpapier 1200 -1
+Zement 5kg -2 
+Zement 10kg -2
+Zement 20kg -3
